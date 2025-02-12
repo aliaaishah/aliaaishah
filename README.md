@@ -6,7 +6,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 **Student:** First-year **[Bio-informatics (Computer Science)]** at **[University Teknologi Malaysia]**
+- 🎓 **Student:** First-year **Bio-informatics (Computer Science)** at **University Teknologi Malaysia**
 - 💻 **Interests:** Web Development, Software Engineering, Open-Source
 - 🌱 **Currently Learning:** C++ and JavaScript
 - 🚀 **Goal:** To build real-world projects and improve my coding skills
